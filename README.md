@@ -101,4 +101,7 @@ It can also perform complex data processing and decision-making operations.
 ALU can execute complex processing tasks at a very high speed that results in better performance and higher efficiency.
 ALU introduces versatility as it can execute a wide range of computational tasks.
 # Conclusion
-This is all about arithmetic logic unit (ALU) which is an important combinational logic circuit in digital electronics and modern computing systems. It acts as the heart of central processing unit (CPU) and executes all kinds of operations including arithmetic, logical, and comparison operations. In a digital computing system, the arithmetic logic unit acts as a primary functional unit that processes the input data based on the instructions. In this chapter, we have studied all the important concepts related to the arithmetic logic unit.
+This is all about arithmetic logic unit (ALU) which is an important combinational logic circuit in digital electronics and modern computing systems. It acts as the heart of central processing unit (CPU) and executes all kinds of operations including arithmetic, logical, and comparison operations. In a digital computing system, the arithmetic logic unit acts as a primary functional unit that processes the input data based on the instructions.
+
+ # OUTPUT
+ 
