@@ -20,6 +20,7 @@ The Arithmetic Logic Unit (ALU) is the fundamental component in a computing syst
 # What is Arithmetic Logic Unit?
 Arithmetic Logic Unit abbreviated as ALU is considered as the engine or heart of every central processing unit (CPU). ALU is basically a combination logic circuit that can perform arithmetic and logical operation on digital data (data in binary format). It can also execute instructions given to a computing system like a digital computer.
 
+![Image](https://github.com/user-attachments/assets/e33cc600-465c-4729-8b7a-7d756b429a2f)
 
 # Arithmetic Logic Unit
 Within the complex architecture of a digital computing system, the arithmetic logic unit or ALU plays an important role as it executes and processes all the instructions, performs calculations, manipulates binary data, and performs various decision-making operations.
